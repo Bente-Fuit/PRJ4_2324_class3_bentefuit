@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+.b_myfont {
+    color: #FC00B4;
+    font-family: "Jacquarda Bastarda 9", serif;
+	font-size: x-large;
+    text-align: center;
+    text-decoration: underline;
+    background-color: #B54D4F;
+}
+
+.practicefont {
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    width: 75px;
+    height: 84px;
+    border-width: 15px;
+    border-color: #B7383A;
+    background-color: #BC8586;
+    color: #E8D4D5;
+    font-size: small;
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 9px;
+}
