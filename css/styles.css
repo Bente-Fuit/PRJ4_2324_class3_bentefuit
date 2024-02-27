@@ -22,6 +22,7 @@ body {
 
 .resume-main {
 	background-color: #CAF5D8;
+	
 }
 
 .resume-aside {
@@ -31,19 +32,21 @@ body {
 /* Styles for lists in the document */
 
 .biography-details li::before, .skill-list li::before {
-	content: ">";
+	content: "*";
 	font-weight: 800;
 	display: inline-block;
 	width: 1em;
 	margin-left: -1em;
+	list-style-type: square
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #FC00E8;
 }
 
 .biography-details li, .skill-list li {
 	padding-left: 1em;
+	
 }
 
 /* Styles for contact icons */
@@ -52,5 +55,6 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
 
 
