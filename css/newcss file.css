@@ -1,12 +1,11 @@
 @charset "utf-8";
 
 .b_myfont {
-    color: #FC00B4;
-    font-family: "Jacquarda Bastarda 9", serif;
-	font-size: x-large;
-    text-align: center;
-    text-decoration: underline;
-    background-color: #B54D4F;
+    color: #6B5EC8;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: medium;
+    text-align: left;
+    text-decoration: none;
 }
 
 .practicefont {

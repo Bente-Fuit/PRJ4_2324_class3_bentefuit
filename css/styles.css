@@ -22,11 +22,12 @@ body {
 
 .resume-main {
 	background-color: #CAF5D8;
-	
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
 }
 
 .resume-aside {
 	background-color: #B1E3F4;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
 }
 
 /* Styles for lists in the document */
