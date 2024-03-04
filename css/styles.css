@@ -58,4 +58,12 @@ body {
 }
 
 
-
+.tryout {
+    color: #B924C4;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    text-shadow: 0px 0px 0px #000000;
+    letter-spacing: 6px;
+    border-width: 3px;
+    border-style: dotted;
+    text-align: center;
+}
